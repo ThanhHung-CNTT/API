@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\bin\Debug\hardwareinfo.exe.config
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\bin\Debug\hardwareinfo.exe
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\bin\Debug\hardwareinfo.pdb
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\bin\Debug\MetroFramework.Design.dll
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\bin\Debug\MetroFramework.dll
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.Form1.resources
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.exe
+C:\Users\ASUS\OneDrive\Máy tính\hardwareinfo\hardwareinfo\obj\Debug\hardwareinfo.pdb

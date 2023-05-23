@@ -1,0 +1,13 @@
+E:\API\OpenWeather\Weatherss\Weatherss\bin\Debug\Weatherss.exe.config
+E:\API\OpenWeather\Weatherss\Weatherss\bin\Debug\Weatherss.exe
+E:\API\OpenWeather\Weatherss\Weatherss\bin\Debug\Weatherss.pdb
+E:\API\OpenWeather\Weatherss\Weatherss\bin\Debug\Newtonsoft.Json.dll
+E:\API\OpenWeather\Weatherss\Weatherss\bin\Debug\Newtonsoft.Json.xml
+E:\API\OpenWeather\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.AssemblyReference.cache
+E:\API\OpenWeather\Weatherss\Weatherss\obj\Debug\Weatherss.Form1.resources
+E:\API\OpenWeather\Weatherss\Weatherss\obj\Debug\Weatherss.Properties.Resources.resources
+E:\API\OpenWeather\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.GenerateResource.cache
+E:\API\OpenWeather\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.CoreCompileInputs.cache
+E:\API\OpenWeather\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.CopyComplete
+E:\API\OpenWeather\Weatherss\Weatherss\obj\Debug\Weatherss.exe
+E:\API\OpenWeather\Weatherss\Weatherss\obj\Debug\Weatherss.pdb
